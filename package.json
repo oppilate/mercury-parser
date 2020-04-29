@@ -20,13 +20,7 @@
     "content"
   ],
   "files": [
-    "cli.js",
-    "dist",
-    "scripts/",
-    "src/",
-    "rollup.config.js",
-    ".eslintrc",
-    ".eslintignore"
+    "."
   ],
   "main": "./dist/mercury.js",
   "bin": {
