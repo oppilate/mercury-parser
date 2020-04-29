@@ -22,6 +22,7 @@
   "files": [
     "cli.js",
     "dist",
+    "scripts/",
     "src/",
     "rollup.config.js",
     ".eslintrc",
