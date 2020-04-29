@@ -22,7 +22,7 @@
   "files": [
     "cli.js",
     "dist",
-    "src/shims/",
+    "src/",
     "rollup.config.js",
     ".eslintrc",
     ".eslintignore"
