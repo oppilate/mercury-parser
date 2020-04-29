@@ -20,7 +20,9 @@
     "content"
   ],
   "files": [
-    "."
+    ".",
+    ".eslintignore",
+    ".eslintrc"
   ],
   "main": "./dist/mercury.js",
   "bin": {
