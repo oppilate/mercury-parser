@@ -23,7 +23,9 @@
     "cli.js",
     "dist",
     "src/shims/",
-    "rollup.config.js"
+    "rollup.config.js",
+    ".eslintrc",
+    ".eslintignore"
   ],
   "main": "./dist/mercury.js",
   "bin": {
