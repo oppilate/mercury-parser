@@ -20,9 +20,10 @@
     "content"
   ],
   "files": [
-    "dist",
     "cli.js",
-    "src/shims/"
+    "dist",
+    "src/shims/",
+    "rollup.config.js"
   ],
   "main": "./dist/mercury.js",
   "bin": {
