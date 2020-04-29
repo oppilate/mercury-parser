@@ -109,6 +109,8 @@ const Mercury = {
       result.content = $.text($(result.content));
     }
 
+    result.content = '<h1>yo</h1>';
+
     return { ...result, ...extendedTypes };
   },
 
